@@ -1,8 +1,8 @@
 ---
-title: "Day 1: Basic Linux commands"
+title: "Basic Linux commands"
 datePublished: Sun Jun 25 2023 15:01:20 GMT+0000 (Coordinated Universal Time)
 cuid: cljbk5cpz000f09l7hw93adm1
-slug: day-1-basic-linux-commands
+slug: basic-linux-commands
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687705175174/2e7ed820-79c2-4ba3-b0b4-6eacdcaef576.jpeg
 tags: cloud, linux, devops, linux-for-beginners, wemakedevs
 
