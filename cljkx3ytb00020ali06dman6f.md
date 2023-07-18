@@ -1,8 +1,8 @@
 ---
-title: "Day 3: Understanding package manager and systemctl"
+title: "Understanding package manager and systemctl"
 datePublished: Sun Jul 02 2023 04:14:06 GMT+0000 (Coordinated Universal Time)
 cuid: cljkx3ytb00020ali06dman6f
-slug: day-3-understanding-package-manager-and-systemctl
+slug: understanding-package-manager-and-systemctl
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688271179580/60f8e9b6-74b4-4dc1-b492-2ea4d735586b.png
 tags: ubuntu, linux, system-architecture, linux-for-beginners, linux-commands
 
