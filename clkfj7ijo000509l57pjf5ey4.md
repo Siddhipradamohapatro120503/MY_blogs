@@ -65,7 +65,7 @@ Packages make installing and managing software much easier, as they handle all t
 15. **Apk**: 📦 The package manager for Alpine Linux, known for its lightweight nature. Manages packages in the `.apk` format. It focuses on security and simplicity. Popular commands: `apk add`, `apk update`, `apk del`. 📦🏔️🏂
     
 
-## Tasks: 1
+## Tasks 1:
 
 **You have to install docker and jenkins in your system from your terminal using package managers**
 
