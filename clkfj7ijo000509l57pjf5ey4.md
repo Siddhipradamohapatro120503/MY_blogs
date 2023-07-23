@@ -156,11 +156,10 @@ systemctl stop docker
     
 * To list all available unit files: `sudo systemctl list-unit-files`
     
-      
     Remember to use `sudo` before the commands that require administrative privileges, as most Systemd operations need elevated permissions. 🚀🔧🌟
     
 
-### Task 2:
+## Task 2:
 
 🔧 **systemctl vs. service** 🔍
 
