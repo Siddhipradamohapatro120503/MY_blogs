@@ -159,7 +159,7 @@ systemctl stop docker
     Remember to use `sudo` before the commands that require administrative privileges, as most Systemd operations need elevated permissions. 🚀🔧🌟
     
 
-## Task 2:
+## Tasks 2:
 
 🔧 **systemctl vs. service** 🔍
 
