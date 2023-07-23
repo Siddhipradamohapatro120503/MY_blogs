@@ -67,7 +67,7 @@ Packages make installing and managing software much easier, as they handle all t
 
 ## Tasks 1:
 
-**You have to install docker and jenkins in your system from your terminal using package managers**
+**You have to install docker or jenkins in your system from your terminal using package managers**
 
 I have written a Script to install Docker using **Shell Script**
 
