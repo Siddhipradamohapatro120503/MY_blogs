@@ -3,6 +3,7 @@ title: "🚀 Basic Git & GitHub for DevOps Engineers 🚀"
 datePublished: Sun Jul 30 2023 07:13:03 GMT+0000 (Coordinated Universal Time)
 cuid: clkp3tynv000209jy16hl36sh
 slug: basic-git-github-for-devops-engineers
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690701447489/0dcc779e-7b6a-4ca3-84aa-31ad9eb40ba4.png
 tags: github, git, 90daysofdevops, wemakedevs, trainwithshubham
 
 ---
