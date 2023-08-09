@@ -79,7 +79,7 @@ Now, let's explore the concept of branches further by working with multiple bran
 3. **Exploring Git Rebase:** Experiment with `git rebase` to understand its differences compared to regular merging. Start by creating a new branch and adding changes, then try rebasing it onto the `master` branch:
     
     ```bash
-    bashCopy codegit checkout -b feature3 dev
+    git checkout -b feature3 dev
     # Make changes to files
     git commit -am "Made changes in feature3 branch"
     git checkout master
