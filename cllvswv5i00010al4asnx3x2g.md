@@ -3,6 +3,7 @@ title: "Deploying a Microservice Application"
 datePublished: Tue Aug 29 2023 04:21:29 GMT+0000 (Coordinated Universal Time)
 cuid: cllvswv5i00010al4asnx3x2g
 slug: deploying-a-microservice-application
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693283040983/a53a90c4-2cf7-41c3-8274-e4d2bf437882.png
 tags: docker, kubernetes, wemakedevs, trainwithshubham, tws
 
 ---
