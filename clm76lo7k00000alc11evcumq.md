@@ -3,6 +3,7 @@ title: "An Introduction To Golang"
 datePublished: Wed Sep 06 2023 03:30:09 GMT+0000 (Coordinated Universal Time)
 cuid: clm76lo7k00000alc11evcumq
 slug: an-introduction-to-golang
+canonical: https://siddhipradamohapatro.hashnode.dev/aws
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693925385079/66f75c55-33e9-42af-8bb3-7d9f06371463.png
 tags: programming-blogs, golang, hashnode, wemakedevs, tws
 
