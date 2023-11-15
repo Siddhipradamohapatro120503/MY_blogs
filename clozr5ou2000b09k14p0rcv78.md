@@ -8,6 +8,8 @@ tags: docker, opensource, docker-compose, docker-images, tws
 
 ---
 
+## Intro**duction**
+
 In the ever-evolving world of containerization and microservices, managing multiple containers and their interactions can become a complex task. Docker Compose comes to the rescue, offering a simple and efficient way to define, configure, and manage multi-container applications. In this blog, we'll explore what Docker Compose is, how it works, and provide a practical example to demonstrate its power.
 
 ### **What is Docker Compose?**
