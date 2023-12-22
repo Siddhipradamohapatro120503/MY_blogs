@@ -7,6 +7,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703232950489/4671877
 
 ---
 
+## Introduction
+
 The landscape of containerized applications is perpetually evolving, and Amazon Elastic Kubernetes Service (EKS) is a prominent tool that simplifies the deployment, administration, and scalability of Kubernetes clusters on AWS. This article aims to provide readers with a thorough overview of the features and advantages of Amazon EKS, along with a detailed guide for configuring a Kubernetes cluster in the AWS ecosystem.
 
 ## **Understanding Amazon EKS: A Kubernetes Marvel on AWS**
