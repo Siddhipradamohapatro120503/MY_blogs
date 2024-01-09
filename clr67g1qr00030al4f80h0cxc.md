@@ -3,6 +3,7 @@ title: "An Introduction to Aws CodeCommit"
 datePublished: Tue Jan 09 2024 10:24:32 GMT+0000 (Coordinated Universal Time)
 cuid: clr67g1qr00030al4f80h0cxc
 slug: an-introduction-to-aws-codecommit
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704796623729/db34c1b9-8292-4319-b3f9-0e3f17dc1451.png
 tags: aws, aws-lambda, awscommunity, aws-community-builder, aws-solution-architect, aws-codecommit, aws-codepipline
 
 ---
